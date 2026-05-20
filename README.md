@@ -10,7 +10,9 @@ This work will be published by IEEE Internet of Things Journal.
 
 ## Required software
 
-PyTorch
+PyTorch 1.10.0
+
+代码文件命名中ESX表示有该场景中有X个边缘服务器，默认2个。
 
 ## Citation
 
