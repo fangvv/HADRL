@@ -17,6 +17,8 @@ PyTorch 1.10.0
 ## Citation
 
 
+## Acknowledgement
+To implement this repo, we refer to the code from [Active Inference](https://github.com/r-gould/active-inference). Thanks to [Rhys Gould](https://r-gould.github.io/2023/08/15/free-energy.html) for his great work.
 	
 ## Contact
 
