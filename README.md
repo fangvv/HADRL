@@ -16,6 +16,17 @@ PyTorch 1.10.0
 
 ## Citation
 
+	@ARTICLE{11534197,
+		author={Li, Haoyuan and Lv, Zhenjie and Wang, Yuhang and He, Ying and Fang, Weiwei and Yu, Fei Richard},
+		journal={IEEE Internet of Things Journal}, 
+		title={Joint Service Caching and Computation Offloading in Mobile Edge Networks: A Hierarchical DRL Approach with Active Inference}, 
+		year={2026},
+		volume={},
+		number={},
+		pages={1-1},
+		keywords={Algorithms;Optimization;Modeling;Resource management;Joints;Internet of Things;Timing;Learning (artificial intelligence);Convergence;Educational institutions;Mobile edge computation;computation offloading;service caching;deep reinforcement learning;active inference},
+		doi={10.1109/JIOT.2026.3695862}
+	}
 
 ## Acknowledgement
 To implement this repo, we refer to the code from [Active Inference](https://github.com/r-gould/active-inference). Thanks to [Rhys Gould](https://r-gould.github.io/2023/08/15/free-energy.html) for his great work.
