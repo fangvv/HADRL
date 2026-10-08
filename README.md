@@ -8,7 +8,7 @@ Mobile edge computing (MEC) is a promising paradigm that provides abundant compu
 
 移动边缘计算（MEC）是一种前景广阔的计算范式，能够在靠近移动设备（MD）的网络边缘提供丰富的计算与存储资源。在MEC网络中，移动设备将计算密集型任务卸载到邻近的边缘服务器（ES）上进行时延敏感型处理，边缘服务器中需存储相关服务以支撑任务执行。然而，边缘服务器有限的计算与存储能力，使得服务缓存与计算卸载的联合优化面临决策相互耦合、解空间庞大以及环境动态变化等挑战。本文针对MEC网络中服务缓存与计算卸载的联合优化问题展开研究，旨在最大化缓存命中率并最小化平均服务时延。为解决该问题，我们将原始问题分解为两个分层子问题，即高层服务缓存与低层计算卸载。我们提出一种新颖的基于主动推理的分层深度强化学习（DRL）算法，称为HADRL。在高层，采用基于深度确定性策略梯度（DDPG）的DRL方法最大化缓存命中率；在低层，采用基于主动推理的DRL方法最小化平均服务时延。与传统DRL不同，基于主动推理的DRL方法通过最小化期望自由能来选择策略，而非仅依赖显式奖励信号，这使得其非常适合高度动态的低层计算卸载场景。仿真结果表明，HADRL方案在缓存命中率和平均服务时延方面均优于基准算法。
 
-This work will be published by IEEE Internet of Things Journal. Click [here](https://doi.org/10.1109/JIOT.2026.3695862) for our paper online.
+This work has been published by IEEE Internet of Things Journal (vol. 13, no. 15, pp. 35015-35030, 2026). Click [here](https://doi.org/10.1109/JIOT.2026.3695862) for our paper online.
 
 ## Required software
 
@@ -155,9 +155,9 @@ If you find HADRL useful or relevant to your project and research, please kindly
     journal={IEEE Internet of Things Journal},
     title={Joint Service Caching and Computation Offloading in Mobile Edge Networks: A Hierarchical DRL Approach with Active Inference},
     year={2026},
-    volume={},
-    number={},
-    pages={1-1},
+    volume={13},
+    number={15},
+    pages={35015-35030},
     keywords={Algorithms;Optimization;Modeling;Resource management;Joints;Internet of Things;Timing;Learning (artificial intelligence);Convergence;Educational institutions;Mobile edge computation;computation offloading;service caching;deep reinforcement learning;active inference},
     doi={10.1109/JIOT.2026.3695862}
 }
