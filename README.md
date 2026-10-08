@@ -145,6 +145,10 @@ python main_active_ES4.py
 python main_active_ES5.py
 ```
 
+## ⭐ Star
+
+**If you find this work useful for your research, please consider giving this repository a ⭐ star. Your support is greatly appreciated!**
+
 ## Citation
 
 If you find HADRL useful or relevant to your project and research, please kindly cite our paper:
